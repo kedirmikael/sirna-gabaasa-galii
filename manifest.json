@@ -1,0 +1,16 @@
+{
+  "name": "Sirna Gabaasa Galii Guyyaa Guyyaa",
+  "short_name": "Gabaasa Galii",
+  "description": "Galii guyyaa guyyaa galmeessuu fi gabaasa ilaaluuf",
+  "lang": "om",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#123b76",
+  "background_color": "#eef3f9",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
